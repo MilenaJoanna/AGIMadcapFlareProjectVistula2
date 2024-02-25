@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Artificial General Intelligence/AGI.htm'],s:['3'],p:[['3',11],['with',14]]});

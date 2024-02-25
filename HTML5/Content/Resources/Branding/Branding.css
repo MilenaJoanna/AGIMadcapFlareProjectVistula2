@@ -1,0 +1,19 @@
+/*<meta />*/
+
+/* MadCap-Branding applanguage:Templates/Projects/Online & Print/Top Navigation and PDF/ */
+
+:root
+{
+	--Medium: #A4AAAE;
+	--FontFamily: Arial, Avenir, Myriad;
+	--LogoImagePrint: url('../Images/Logo.svg');
+	--Dark: #45494C;
+	--Darkest: #000000;
+	--Primary: #cd5c5c;
+	--Secondary: #f5f5f5;
+	--Lightest: #f5f5f5;
+	--Light: #f5f5f5;
+	--LogoImage: url('../Images/—Pngtree—gradient color artificial intelligence robot_4039865.png');
+	--HeroImage: url('../Images/Copy of zyro-image.png');
+}
+
